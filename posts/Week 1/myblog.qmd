@@ -1,0 +1,18 @@
+---
+title: "New Quarto Doc"
+author: "Liesl Eathington"
+date: "2023-05-31"
+categories: [Week One]
+---
+
+## Introduction
+
+This is just a simple hello.
+
+```{r}
+print("This works")
+```
+
+```{r, eval=FALSE}
+print("This will not print")
+```
